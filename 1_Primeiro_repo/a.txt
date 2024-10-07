@@ -6,4 +6,5 @@ Teste atualização
 Enviando a 
 funcionalidade
 x
-Enviando a funcionalidade b teste
+Enviando a funcionalidade b 
+Funcionalidade b testando novamente
