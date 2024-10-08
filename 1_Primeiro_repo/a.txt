@@ -5,3 +5,5 @@ Teste atualização
 
 Testeando o compatilhamento de branches pelo repositorio remoto
 o nome do branch é funcionalidade_h
+
+nova funcionalidade criada por outra pessoa funcionalidade_j
